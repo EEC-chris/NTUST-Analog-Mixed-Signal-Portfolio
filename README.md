@@ -22,8 +22,6 @@ Designed a Folded-Cascode operational amplifier with a constant-gm input stage t
 ![OP-amp Folded Cascode Rail to Rail with Constant Gm Schematic](<<img width="1128" height="342" alt="image" src="https://github.com/user-attachments/assets/47c93a01-5566-4e45-b7d0-378ca296e0b4" />
 
 >)
->![OP-amp Folded Cascode Rail to Rail Schematic](<<img width="1039" height="347" alt="image" src="https://github.com/user-attachments/assets/3e157617-1d45-47f7-ad08-8b696aaafe0d" />
->)
 
 **AC Simulation (Gain & Phase):**
 ![OP-amp AC Plot](<<img width="949" height="438" alt="image" src="https://github.com/user-attachments/assets/ed80cbf3-3baa-4a48-99d8-3802f3443023" />
@@ -38,7 +36,9 @@ Implemented a high-order low-pass filter using the Sallen-Key architecture, desi
 
 ### Schematics & Plots
 **Frequency Response:**
-![Filter AC Plot](<<img width="1552" height="714" alt="image" src="https://github.com/user-attachments/assets/2e03f1e9-8f63-46d6-8950-7357ad23883e" />
+![Filter AC Plot](<<img width="1542" height="714" alt="image" src="https://github.com/user-attachments/assets/4d1be899-dff8-4285-81f0-5fb8c92ecf13" />
+
+>)(<<img width="1552" height="714" alt="image" src="https://github.com/user-attachments/assets/2e03f1e9-8f63-46d6-8950-7357ad23883e" />
 >)
 
 ---
